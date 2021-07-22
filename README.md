@@ -13,7 +13,8 @@ Instructions for creating and using `virtualenv` can be found [here](https://uoa
 
 Instructions for combining `jupyter notebook` and `virtualenv` can be found [here](https://janakiev.com/blog/jupyter-virtual-envs/) 
 
-Packages that could be used for using bags and plotting is presented [here]. 
+Packages that could be used for using bags and plotting is presented [here](https://github.com/sikang/bag_plot). 
 
 There's also great introductory material for [Data logging and processing using rosbag](https://www.fer.unizg.hr/_download/repository/lec08-rosbag-ipython.pdf). 
  
+Use [plotly](https://dash.plotly.com/) if you want to create awesome interactive HTML graphs. 
