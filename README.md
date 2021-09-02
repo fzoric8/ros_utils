@@ -7,6 +7,7 @@ following python packages:
  * [pandas](https://pandas.pydata.org/) 
  * [matplotlib](https://matplotlib.org/) 
 
+
 It's advised to use `virtualenv` to avoid crashing your own python that's native. 
 
 Instructions for creating and using `virtualenv` can be found [here](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/). 
@@ -18,3 +19,6 @@ Packages that could be used for using bags and plotting is presented [here](http
 There's also great introductory material for [Data logging and processing using rosbag](https://www.fer.unizg.hr/_download/repository/lec08-rosbag-ipython.pdf). 
  
 Use [plotly](https://dash.plotly.com/) if you want to create awesome interactive HTML graphs. 
+
+
+
