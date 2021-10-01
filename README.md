@@ -20,5 +20,5 @@ There's also great introductory material for [Data logging and processing using 
  
 Use [plotly](https://dash.plotly.com/) if you want to create awesome interactive HTML graphs. 
 
-
+Info about 3d plotting using matplotlib can be found [here](https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html)
 
