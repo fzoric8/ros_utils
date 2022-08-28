@@ -1,0 +1,4 @@
+filename,width,height,class,id,xmin,ymin,xmax,ymax
+4.jpg,480,480,SmallDryBagHandle,5,46,164,63,179
+4.jpg,480,480,LargeDryBoxHandles,3,297,0,333,15
+4.jpg,480,480,LargeDryBoxHandles,3,213,126,305,230
