@@ -1,0 +1,55 @@
+Timestamp,Email Address,User ID,Control modality,Mental demand ,Physical demand,Temporal demand,Effort,Performance,Frustration,Observations and comments:,Number of experiment attempts,Task,Sum
+2/21/2023 10:18:27,alexviena2011@gmail.com,1,Joystick control,8,7,9,6,8,6,,1,1,44
+2/21/2023 10:23:17,alexviena2011@gmail.com,1,Master-slave control,7,4,7,6,8,7,,1,1,39
+2/21/2023 10:28:09,alexviena2011@gmail.com,1,Human pose estimation control,6,3,5,4,2,3,,1,1,23
+2/21/2023 10:36:22,alexviena2011@gmail.com,1,Joystick control,8,9,7,8,6,8,,3,2,46
+2/21/2023 10:41:49,alexviena2011@gmail.com,1,Master-slave control,6,5,4,4,1,3,,1,2,23
+2/21/2023 10:47:39,alexviena2011@gmail.com,1,Human pose estimation control,4,7,7,6,8,7,,2,2,39
+2/21/2023 11:05:34,DUMMY@gmail.com,2,Joystick control,7,2,7,7,6,8,I was unfamiliar with the full range of the joystick. Scores would change with practice.,1,1,37
+2/21/2023 11:09:03,DUMMY@gmail.com,2,Master-slave control,4,3,5,4,3,3,"Slight resistance when moving the arms, and mildly discomfortable position. Some unexpected sudden small jumps of the motors.",1,1,22
+2/21/2023 11:16:14,DUMMY@gmail.com,2,Human pose estimation control,3,1,3,3,5,3,"Slightly inconvenient sitting position. Made harder to perceive left arm's position. Overall intuitive, but maybe slight discrepancies with the actual position of my arms in relation to the robot's.",1,1,18
+2/21/2023 11:20:45,DUMMY@gmail.com,2,Joystick control,6,2,5,6,2,5,"A small amount of familiarity with the joystick from the first test greatly helped with performance, and stress.",1,2,26
+2/21/2023 11:25:49,dummy@gmail.com,2,Master-slave control,5,3,5,5,4,4,"Interacting with the arms proves to have some spots in which the control is not consistent, probably those close to singularities. This makes it slightly more cumbersome, specially for finer movements.",1,2,26
+2/21/2023 11:31:05,dummy@gmail.com,2,Human pose estimation control,3,1,4,3,3,3,"Some small sudden movements, but quite solid overall.",1,2,17
+2/21/2023 11:52:31,losilla.7@hotmail.com,3,Joystick control,6,3,4,3,3,2,,3,1,21
+2/21/2023 11:56:54,losilla.7@hotmail.com,3,Master-slave control,6,4,3,2,5,4,,1,1,24
+2/21/2023 11:57:58,losilla.@hotmail.com,3,Human pose estimation control,5,5,6,5,5,6,,1,1,32
+2/21/2023 12:00:28,losilla.7@hotmail.com,3,Joystick control,6,4,4,3,5,4,,1,2,26
+2/21/2023 12:02:57,losilla.7@hotmail.com,3,Master-slave control,3,2,2,2,1,2,,1,2,12
+2/21/2023 12:07:15,losilla.7@homail.com,3,Human pose estimation control,5,5,7,6,4,5,,3,2,32
+2/21/2023 12:22:44,fjganan14@gmail.com,4,Human pose estimation control,3,1,2,3,7,1,,2,1,17
+2/21/2023 12:27:24,fjganan14@gmail.com,4,Master-slave control,2,1,1,2,9,1,,1,1,16
+2/21/2023 12:31:22,fjganan14@gmil.com,4,Joystick control,2,1,1,2,10,1,,1,1,17
+2/21/2023 12:36:20,fjganan14@gmail.com,4,Human pose estimation control,2,1,1,1,10,1,,1,2,16
+2/21/2023 12:39:16,fjganan14@gmail.com,4,Master-slave control,2,1,1,2,10,1,,1,2,17
+2/21/2023 12:41:30,fjgnanan14@gmail.com,4,Joystick control,3,1,1,2,8,1,,1,2,16
+2/21/2023 12:54:13,ivangr3@gmail.com,5,Human pose estimation control,7,4,7,6,5,6,,2,1,35
+2/21/2023 12:58:05,ivangr3@gmail.com,5,Master-slave control,4,4,3,4,8,2,,1,1,25
+2/21/2023 13:04:00,ivangr3@gmail.com,5,Joystick control,2,2,2,4,7,2,,1,1,19
+2/21/2023 13:06:52,ivangr3@gmail.com,5,Human pose estimation control,3,3,3,4,6,3,,1,2,22
+2/21/2023 13:09:46,ivangr3@gmail.com,5,Master-slave control,1,3,1,1,9,1,,1,2,16
+2/21/2023 13:12:32,ivangr3@gmail.com,5,Joystick control,4,2,4,6,4,4,,1,2,24
+2/21/2023 13:21:53,javierluna3@gmail.com,6,Human pose estimation control,7,5,6,7,3,5,,2,1,33
+2/21/2023 13:54:59,javierluna3@gmail.com,6,Master-slave control,2,3,2,2,2,1,,1,1,12
+2/21/2023 13:35:40,javierluna3@gmail.com,6,Joystick control,4,2,5,3,1,3,,1,1,18
+2/21/2023 13:42:57,javierluna3@gmail.com,6,Human pose estimation control,4,4,3,3,3,3,,1,2,20
+2/21/2023 13:45:47,javierluna3@gmail.com,6,Master-slave control,1,3,1,2,2,1,,1,2,10
+2/21/2023 13:48:20,javierluna3@gmail.com,6,Joystick control,3,3,2,3,2,1,,1,2,14
+2/22/2023 15:26:36,saerafee@yahoo.com,7,Master-slave control,2,2,3,1,2,2,It was an interesting experiment. Thanks.,1,1,12
+2/22/2023 15:33:51,saerafee@yahoo.com,7,Human pose estimation control,1,1,1,2,3,1,,2,1,9
+2/22/2023 15:39:50,saerafee@yahoo.com,7,Joystick control,1,1,1,1,1,1,,1,1,6
+2/22/2023 15:41:48,saerafee@yahoo.com,7,Master-slave control,2,2,1,2,1,1,,1,2,9
+2/22/2023 15:48:31,saerafee@yahoo.com,7,Human pose estimation control,3,3,2,3,7,2,,3,2,20
+2/22/2023 15:50:52,saerafee@yahoo.com,7,Joystick control,1,1,1,1,1,1,,1,2,6
+2/22/2023 16:14:48,mario.hdey.al@gmail.com,8,Master-slave control,7,6,8,7,4,4,improve resistance of servos to soften the movement.,1,1,36
+2/22/2023 16:22:47,mario.hdez.al@gmail.com,8,Human pose estimation control,8,6,4,7,5,4,"movement recorded from the camera seems inaccurate, maybe increase the number of cameras and different location for record the movement could increase it.",1,1,34
+2/22/2023 16:27:12,mario.hdez.al@gmail.com,8,Joystick control,3,2,2,2,2,1,,1,1,12
+2/22/2023 16:32:32,mario.hdez.al@gmail.com,8,Master-slave control,7,5,6,6,4,6,,1,2,34
+2/22/2023 16:37:42,mario.hdez.al@gmail.com,8,Human pose estimation control,7,6,8,6,4,7,,2,2,38
+2/22/2023 16:39:49,mario.hdez.al@gmail.com,8,Joystick control,5,3,4,3,4,3,,1,2,22
+2/22/2023 17:04:09,jorrodrub@gmail.com,9,Master-slave control,3,1,3,3,8,3,,1,1,21
+2/22/2023 17:13:22,jorrodrub@gmail.com,9,Human pose estimation control,8,1,6,7,5,5,,4,1,32
+2/22/2023 17:17:48,jorrodrub@gmail.com,9,Joystick control,5,1,5,6,6,5,,2,1,28
+2/22/2023 17:20:22,jorrodrub@gmail.com,9,Master-slave control,1,1,1,2,10,2,,1,2,17
+2/22/2023 17:23:22, jorrodrub@gmail.com,9,Human pose estimation control,4,1,3,5,7,4,,1,2,24
+2/22/2023 17:27:53,jorrodrub@gmail.com,9,Joystick control,5,1,3,5,7,4,,2,2,25
