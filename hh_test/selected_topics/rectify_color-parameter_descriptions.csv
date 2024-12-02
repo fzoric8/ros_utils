@@ -1,0 +1,32 @@
+Time,groups,max.bools,max.ints,max.strs,max.doubles,max.groups,min.bools,min.ints,min.strs,min.doubles,min.groups,dflt.bools,dflt.ints,dflt.strs,dflt.doubles,dflt.groups
+1732900703.7121086,"[name: ""Default""
+type: ''
+parameters: 
+  - 
+    name: ""interpolation""
+    type: ""int""
+    level: 0
+    description: ""Interpolation algorithm between source image pixels""
+    edit_method: ""{'enum': [{'name': 'NN', 'type': 'int', 'value': 0, 'srcline': 9, 'srcfile': '/tmp/binarydeb/ros-noetic-image-proc-1.17.0/cfg/Rectify.cfg',\
+  \ 'description': 'Nearest neighbor', 'ctype': 'int', 'cconsttype': 'const int'},\
+  \ {'name': 'Linear', 'type': 'int', 'value': 1, 'srcline': 10, 'srcfile': '/tmp/binarydeb/ros-noetic-image-proc-1.17.0/cfg/Rectify.cfg',\
+  \ 'description': 'Linear', 'ctype': 'int', 'cconsttype': 'const int'}, {'name':\
+  \ 'Cubic', 'type': 'int', 'value': 2, 'srcline': 11, 'srcfile': '/tmp/binarydeb/ros-noetic-image-proc-1.17.0/cfg/Rectify.cfg',\
+  \ 'description': 'Cubic', 'ctype': 'int', 'cconsttype': 'const int'}, {'name': 'Lanczos4',\
+  \ 'type': 'int', 'value': 4, 'srcline': 12, 'srcfile': '/tmp/binarydeb/ros-noetic-image-proc-1.17.0/cfg/Rectify.cfg',\
+  \ 'description': 'Lanczos4', 'ctype': 'int', 'cconsttype': 'const int'}], 'enum_description':\
+  \ 'interpolation type'}""
+parent: 0
+id: 0]",[],"[name: ""interpolation""
+value: 4]",[],[],"[name: ""Default""
+state: True
+id: 0
+parent: 0]",[],"[name: ""interpolation""
+value: 0]",[],[],"[name: ""Default""
+state: True
+id: 0
+parent: 0]",[],"[name: ""interpolation""
+value: 1]",[],[],"[name: ""Default""
+state: True
+id: 0
+parent: 0]"

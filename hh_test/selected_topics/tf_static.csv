@@ -1,0 +1,146 @@
+Time,transforms
+1732900703.7198634,"[header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923699377
+  frame_id: ""camera_link""
+child_frame_id: ""camera""
+transform: 
+  translation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0, header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923722641
+  frame_id: ""camera""
+child_frame_id: ""camera_imu_frame""
+transform: 
+  translation: 
+    x: 0.0
+    y: -0.015
+    z: -0.013662
+  rotation: 
+    x: 0.0
+    y: 0.7071067811865475
+    z: 0.0
+    w: 0.7071067811865476, header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923725873
+  frame_id: ""camera""
+child_frame_id: ""camera_infra2_frame""
+transform: 
+  translation: 
+    x: 0.0
+    y: 0.0375
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0, header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923728113
+  frame_id: ""camera_infra2_frame""
+child_frame_id: ""camera_infra2_optical_frame""
+transform: 
+  translation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  rotation: 
+    x: 0.5
+    y: -0.4999999999999999
+    z: 0.5
+    w: -0.5000000000000001, header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923729969
+  frame_id: ""camera""
+child_frame_id: ""camera_model_origin""
+transform: 
+  translation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  rotation: 
+    x: 0.4999999999966269
+    y: 0.5000018366025517
+    z: 0.4999999999966269
+    w: 0.49999816339744835, header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923733169
+  frame_id: ""camera""
+child_frame_id: ""camera_color_frame""
+transform: 
+  translation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0, header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923734705
+  frame_id: ""camera_color_frame""
+child_frame_id: ""camera_color_optical_frame""
+transform: 
+  translation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  rotation: 
+    x: 0.5
+    y: -0.4999999999999999
+    z: 0.5
+    w: -0.5000000000000001, header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923735761
+  frame_id: ""camera""
+child_frame_id: ""camera_infra1_frame""
+transform: 
+  translation: 
+    x: 0.0
+    y: -0.0375
+    z: 0.0
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0, header: 
+  seq: 0
+  stamp: 
+    secs: 1732900556
+    nsecs: 923736689
+  frame_id: ""camera_infra1_frame""
+child_frame_id: ""camera_infra1_optical_frame""
+transform: 
+  translation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  rotation: 
+    x: 0.5
+    y: -0.4999999999999999
+    z: 0.5
+    w: -0.5000000000000001]"
